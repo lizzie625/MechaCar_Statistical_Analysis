@@ -7,7 +7,8 @@
 
 ![deliverable2b](https://user-images.githubusercontent.com/96501958/163740787-414a4bf8-2cb0-4e70-a5a7-06b16ceb19d0.png)  
 
-## Deliverable 3  
+## T-Tests on Suspension Coils  
+
 ![mod15_del3](https://user-images.githubusercontent.com/96501958/163740853-1bbdc6b1-0896-41b6-9188-24da45f23035.png)  
 
 ![mod15_del3b](https://user-images.githubusercontent.com/96501958/163740864-d969241e-9e18-406c-a713-924ed777b9bd.png)  
