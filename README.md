@@ -2,8 +2,10 @@
 ## Linear Regression to Predict MPG  
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?  
 * vehicle lenth and ground clearance provide non-random amount of variance and show significance on mpg  
+  
 Is the slope of the linear model considered to be zero? Why or why not?  
 * no, theres a significant linear relatioship  
+  
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  
 * yes, vehicle lenth and ground clearance are signifiancr to mpg  
 ![deliverable1](https://user-images.githubusercontent.com/96501958/163740627-b63bd797-bb5e-4a9b-a4c1-9aa2d26d345f.png)  
